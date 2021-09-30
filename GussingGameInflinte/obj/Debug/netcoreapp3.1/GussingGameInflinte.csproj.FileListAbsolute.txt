@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\bin\Debug\netcoreapp3.1\GussingGameInflinte.exe
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\bin\Debug\netcoreapp3.1\GussingGameInflinte.deps.json
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\bin\Debug\netcoreapp3.1\GussingGameInflinte.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\bin\Debug\netcoreapp3.1\GussingGameInflinte.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\bin\Debug\netcoreapp3.1\GussingGameInflinte.dll
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\bin\Debug\netcoreapp3.1\GussingGameInflinte.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\obj\Debug\netcoreapp3.1\GussingGameInflinte.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\obj\Debug\netcoreapp3.1\GussingGameInflinte.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\obj\Debug\netcoreapp3.1\GussingGameInflinte.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\obj\Debug\netcoreapp3.1\GussingGameInflinte.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\obj\Debug\netcoreapp3.1\GussingGameInflinte.dll
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\obj\Debug\netcoreapp3.1\GussingGameInflinte.pdb
+C:\Users\opilane\source\repos\logitpe21\MoreLoops\GussingGameInflinte\obj\Debug\netcoreapp3.1\GussingGameInflinte.genruntimeconfig.cache
